@@ -2,7 +2,7 @@
 title: "Jekyll Boilerplate"
 description: "site description goes here"
 
-url: "http://yourdomain.com"
+url: "http://jekyll-boilerplate.com"
 
 # Build settings
 markdown: kramdown
